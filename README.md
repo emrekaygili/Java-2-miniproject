@@ -1,4 +1,4 @@
-# Java 2 miniproject
+# Project View
 Kalın sesli ince sesli harfler
 ![Kalınveincesesliharfler](https://github.com/user-attachments/assets/bf4554f5-03ec-449b-acfe-daa95408707d)
 
